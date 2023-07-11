@@ -24,7 +24,7 @@ Usage
 Clone this repository to your local machine or download the source code as a ZIP file.
 bash
 Copy code
-git clone https://github.com/your-username/mushroom-classification-ann.git
+git clonehttps://github.com/ganeshkadam07/Mashroom-classification-using-ANN.git
 Navigate to the project directory.
 bash
 Copy code
